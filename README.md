@@ -1,21 +1,26 @@
-# Hi 👋, 
+# Hi 👋, I'm Ihor
 
-💻 Студент / початківець розробник з України  
-⚙️ Пишу на: **C**, **Python**, **Django**, **React**  
-🚀 Цікавлюсь: веб-розробкою, Linux, оптимізацією систем  
-🌍 Мова спілкування: українська 🇺🇦, словацька 🇸🇰  
+💻 Student / beginner developer from Ukraine  
+⚙️ I code in: **C**, **Python**, **Django**  
+🚀 Interested in: Web development, creating apps  
+🌍 Languages: Ukrainian 🇺🇦, Slovak 🇸🇰, learning English 🇺🇸  
 
 ---
 
-### 🧠 Мови та інструменти
+### 🧰 Skills & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### 📈 Статистика GitHub
-![Ігор’s GitHub stats](https://github-readme-stats.vercel.app/api?username=ihorholodenko&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihorholodenko&layout=compact&theme=tokyonight)
+### 🌱 Currently Learning
+- Django Models & Forms
+- Frontend basics (HTML, CSS, JS)
+- React for web projects
+
+---
+
+### 📫 How to reach me
+- [Email](mailto:golodenko.igor15@gmail.com)
