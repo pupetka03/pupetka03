@@ -22,5 +22,10 @@
 
 ---
 
+## 📊 Статистика GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pupetka03&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pupetka03&layout=compact&theme=tokyonight)
+
 ### 📫 How to reach me
 - [Email](mailto:golodenko.igor15@gmail.com)
