@@ -14,6 +14,7 @@
 **Backend & Core:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 **Tools & Platforms:**
@@ -21,12 +22,12 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
 **Frontend (In Progress):**
 ![HTML5](https://img.shields.io/badge/HTML5-Learning-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-Learning-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Learning-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-Learning-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 ---
 
 ### 📈 GitHub Analytics
@@ -44,9 +45,10 @@
 
 ### 🌱 Currently Deepening Knowledge In
 
+- **Compiler & Language Design** (Lexers, Parsers, AST, Transpilation patterns)
 - **Advanced Django** (REST Framework, Performance Optimization)
-- **Database Design** (PostgreSQL, ORM patterns)
-- 
+- **Database Design** (PostgreSQL, ORM optimization)
+
 ---
 
 ### 🗣️ Languages
